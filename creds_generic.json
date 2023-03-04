@@ -1,0 +1,8 @@
+{
+  "account": "pb06789.us-east4.gcp",
+  "user": "utkarshdhande",
+  "password": "Welcome@123",
+  "warehouse": "VSHIV_DEV_WH",
+  "database": "VSHIV_DEV",
+  "schema": "SNOWPARK_CUSTOMER_SPEND"
+}
